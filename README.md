@@ -15,4 +15,4 @@ In the game you go to a screen that moves down continuasly, you cannot move down
 Once you reach the boss you come to a screen where the boss is on one side and you must defeat him to win the game. 
 these are the 2 basic levels to the game but their can be more levels added and these can be changed.
 
-![Example](https://github.com/The-tiny-asian/game-project-kapptie/blob/master/Game.png)
+![Example](https://github.com/The-tiny-asian/game-project-kapptie-/blob/master/Game.png)
