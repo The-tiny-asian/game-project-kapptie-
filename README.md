@@ -13,5 +13,6 @@ the opening screen is the how to screen, which shows you what buttons do what, b
 In the game you go to a screen that moves down continuasly, you cannot move down and if you dont move up you loose a life, we want this part of the game is either a tower going up or platforms leading up. You have to dodge fireballs/rocks and or fight little bad guys
     +- ?their might be a side bar that contains little clues that you need to put together to answer the question to get to the boss level, the question changes each time the game is restarted
 Once you reach the boss you come to a screen where the boss is on one side and you must defeat him to win the game. 
-these are the 2 basic levels to the game but their can be more levels added and these can be changed. 
-![Example](https://github.com/The-tiny-asian/game-project-kapptie-/blob/master/Shantilisa%20-%20Showdown%20at%20Omega's%20Purge%3B%20Game%20Project)
+these are the 2 basic levels to the game but their can be more levels added and these can be changed.
+
+![Example](https://github.com/The-tiny-asian/game-project-kapptie/blob/master/Game.png)
