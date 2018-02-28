@@ -29,5 +29,3 @@ these are the 2 basic levels to the game but their can be more levels added and 
 
 
 ![Example](https://github.com/The-tiny-asian/game-project-kapptie-/blob/master/Game.png)
-This package provides support for obtaining OAuth2 credentials to access
-Google APIs.
