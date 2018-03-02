@@ -28,4 +28,4 @@ The final stage is a boss fight .
 
 
 ![Example](https://github.com/The-tiny-asian/game-project-kapptie-/blob/master/Game.png)
-![Diagram](https://github.com/The-tiny-asian/game-project-kapptie-/blob/master/Game.png)
+![Diagram](https://github.com/The-tiny-asian/game-project-kapptie-/blob/master/CompProgGameClassDiagram.png)
