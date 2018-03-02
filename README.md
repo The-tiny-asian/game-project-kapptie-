@@ -1,31 +1,31 @@
 # game-project-kapptie-
-This is a game in python
-It made by... David, Bella, Raheem, Emmauel
-This is a platform game and is played by one player 
-three parts to the game:
+This is a game in Python by David, Bella, Raheem, Emmauel
+This is a simple platformer game for one player. 
+There will be three sections:
 
 Part 1:
 
-the opening screen is the how to screen, it will show you how to play the game.
-One of the things it will show is what Buttons there is, and what the buttons do
+The opening screen will show the controls.
+
 Ex:
-- z is change weapon
-- x is attack
-- A is use arrow
+
 - left arrow key is move left
 - right arrow key is move right
 - up arrow key is jump up
 - three lives
+(other planned features):
+-x is attack
+-c is ranged attack
 
 Part 2:
 
-The next screen is the start of the game the screen moves down continuasly, you cannot move down and if you dont move up you loose a life, we want this part of the game is either a tower going up or platforms leading up. You have to dodge fireballs/rocks and or fight little bad guys
-- there might be a side bar that contains little clues that you need to put together to answer the question to get to the boss level, the question changes each time the game is restarted
+The next screen is the first stage of the game. The screen will move down continuously. Leaving the screen will result in losing a life, and you must navigate to the top of a tower using platforms. Obstacles such as rocks, fireballs and enemies will impede you.
+There may be collectibles needed to access the final stage, possibly in the form of a riddle.  We may also add multiple instances of this section.
 
 Part 3: 
 
-Once you reach the boss you come to a screen where the boss is on one side and you must defeat him to win the game. 
-these are the 2 basic levels to the game but their can be more levels added and these can be changed.
+The final stage is a boss fight .
 
 
 ![Example](https://github.com/The-tiny-asian/game-project-kapptie-/blob/master/Game.png)
+![Diagram](https://github.com/The-tiny-asian/game-project-kapptie-/blob/master/Game.png)
